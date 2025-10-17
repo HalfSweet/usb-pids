@@ -2,6 +2,8 @@
 
 [English](README_EN.md)
 
+123 test
+
 ## 概览
 
 这是SiFli VID（0x38F4）下客户分配PID的资源库。对于仅生产小批量产品的个人或公司而言，获取专属USB供应商ID（VID）成本较高。因此我们提供使用SiFli VID下分配的PID作为替代方案。
